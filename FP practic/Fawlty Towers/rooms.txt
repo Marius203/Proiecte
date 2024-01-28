@@ -1,0 +1,12 @@
+1, single
+2, single
+3, single
+4, double
+5, double
+6, double
+7, triple
+8, triple
+9, triple
+10, apartment
+11, apartment
+12, apartment
